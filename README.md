@@ -14,7 +14,7 @@ Hello! I'm **Sayed Zabiulla**, a passionate and driven [Software Developer] with
 
 | Company | Role | Duration | Projects & Technologies | Code Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| **CODTECH IT SOLUTIONS** | [JAVA Intern] | [August 2025] - [September 2025] | **[Project Title 1]**<br>_A brief one-line description of the project._<br>_Tech:_ `React`, `Node.js`, `MongoDB` | `[View Code](https://github.com/SayedZabiulla/INTERSHIP-CODES/tree/main/CODTECH%20IT%20SOLUTIONS)` |
+| **CODTECH IT SOLUTIONS** | [JAVA Intern] | [August 2025] - [September 2025] | **[Project Title 1]** | ![View Code](https://github.com/SayedZabiulla/INTERSHIP-CODES/tree/main/CODTECH%20IT%20SOLUTIONS) |
 <!-- | **[Company Name 2]** | [Your Role] | [Start Date] - [End Date] | **[Project Title 2]**<br>_A brief one-line description of the project._<br>_Tech:_ `Python`, `Flask`, `PostgreSQL` | `[View Code](./path/to/project2)` | -->
 
 *You can add more projects for a single company by using `<br><br>` to separate them within the same cell.*
