@@ -19,7 +19,19 @@ A simple yet effective command-line based file management tool built in Java. Th
 
 ## 📝 OUTPUTS
 # Writing a File
-    ![File Handling Utility Output]("C:\Users\Zabis\OneDrive\OUTPUTS\Screenshot 2025-08-21 142524.png")
+    ![File Handling Utility Output]("https://github.com/SayedZabiulla/INTERSHIP-CODES/blob/main/CODTECH%20IT%20SOLUTIONS/FILE%20HANDLING%20UTILITY/OUTPUTS/Screenshot%202025-08-21%20142524.png?raw=true")
+
+# Reading File
+    ![File Handling Utility Output](https://github.com/SayedZabiulla/INTERSHIP-CODES/blob/main/CODTECH%20IT%20SOLUTIONS/FILE%20HANDLING%20UTILITY/OUTPUTS/Screenshot%202025-08-21%20142531.png?raw=true)
+
+# Addpend File
+    ![File Handling Utility Output](https://github.com/SayedZabiulla/INTERSHIP-CODES/blob/main/CODTECH%20IT%20SOLUTIONS/FILE%20HANDLING%20UTILITY/OUTPUTS/Screenshot%202025-08-21%20142541.png?raw=true)
+
+# Reading Filee After Appending
+    ![File Handling Utility Output](https://github.com/SayedZabiulla/INTERSHIP-CODES/blob/main/CODTECH%20IT%20SOLUTIONS/FILE%20HANDLING%20UTILITY/OUTPUTS/Screenshot%202025-08-21%20142550.png?raw=true)
+
+# Delete File
+    ![File Handling Utility Output](https://github.com/SayedZabiulla/INTERSHIP-CODES/blob/main/CODTECH%20IT%20SOLUTIONS/FILE%20HANDLING%20UTILITY/OUTPUTS/Screenshot%202025-08-21%20142557.png?raw=true)
 ---
 
 ## 📬 Contact
