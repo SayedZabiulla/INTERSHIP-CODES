@@ -11,25 +11,12 @@ This is a lightweight, command-line Java application that demonstrates how to ma
 * **Simple JSON Formatting:** Includes a basic utility to format the raw JSON string for better readability in the console.
 * **Modern Java Practices:** Uses `java.net.URI` for robust and safe URL creation.
 * **Zero Dependencies:** Runs using only standard Java libraries, no external dependencies are required.
-
 ---
-
-## 🚀 How to Run
-
-1.  **Compile the Code:**
-    ```bash
-    javac code.java
-    ```
-
-2.  **Run the Application:**
-    ```bash
-    java code
-    ```
-
----
-
 ## 🖼️ Output
+---
+<img width="450" height="900" alt="Image" src="https://github.com/user-attachments/assets/e3c8b622-18c2-4150-a408-d8f4e221ff6c" />
 
+---
 ## 📬 Contact
 
 Created by **Sayed Zabiulla** - feel free to reach out!
