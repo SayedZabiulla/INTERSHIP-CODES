@@ -23,6 +23,8 @@ Hello! I'm **Sayed Zabiulla**, a passionate and driven [Software Developer] with
 
 ## 📫 Contact
 
--   **GitHub:** [https://github.com/SayedZabiulla](https://github.com/SayedZabiulla)
--   **LinkedIn:** [https://www.linkedin.com/in/sayed-zabiulla-b5bb0536b/](https://www.linkedin.com/in/sayed-zabiulla-b5bb0536b/)
--   **Email:** [sayedzabeulla@gmail.com](mailto:sayedzabeulla@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayed%20Zabiulla-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sayed-zabiulla-b5bb0536b/)
+[![GitHub](https://img.shields.io/badge/GitHub-SayedZabiulla-grey?style=for-the-badge&logo=github)](https://github.com/SayedZabiulla)
+[![Gmail](https://img.shields.io/badge/Gmail-sayedzabeulla@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sayedzabeulla@gmail.com)
+
+---
