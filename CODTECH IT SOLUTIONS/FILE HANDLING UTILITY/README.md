@@ -1,8 +1,7 @@
 # Java File Handling Utility 📁
 
 ![Language](https://img.shields.io/badge/Language-Java-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-JVM-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/Platform-VSCODE-orange.svg)
 
 A simple yet effective command-line based file management tool built in Java. This utility provides essential file operations like creating, reading, updating (appending), and deleting text files through an interactive menu. It's an excellent project for demonstrating core Java I/O concepts.
 
@@ -28,36 +27,6 @@ javac -version
 ```
 
 ---
-
-## 🚀 Getting Started
-
-Follow these simple steps to get the application up and running.
-
-### 1. Clone the Repository
-Clone this repository to your local machine using your preferred method (HTTPS or SSH).
-```bash
-git clone [https://github.com/SayedZabiulla/your-repository-name.git](https://github.com/SayedZabiulla/your-repository-name.git)
-```
-*(Replace `your-repository-name` with the actual name of your repository.)*
-
-### 2. Navigate to the Directory
-```bash
-cd your-repository-name
-```
-
-### 3. Compile the Code
-Compile the Java source file. Assuming the file is named `code.java`:
-```bash
-javac code.java
-```
-This will create a `code.class` file in the same directory.
-
-### 4. Run the Application
-Execute the compiled Java code to start the utility:
-```bash
-java code
-```
-
 ---
 
 ## 📝 Example Usage
@@ -124,7 +93,3 @@ Created by **Sayed Zabiulla** - feel free to reach out!
 [![Gmail](https://img.shields.io/badge/Gmail-sayedzabeulla@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sayedzabeulla@gmail.com)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
