@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
  * This system recommends items to a user based on the preferences of similar users.
  */
 public class RecommendationSystem {
-
+    
     public static void main(String[] args) {
         // Sample user-item ratings data. Ratings are on a scale of 1 to 5.
         Map<String, Map<String, Double>> userRatings = new HashMap<>();
