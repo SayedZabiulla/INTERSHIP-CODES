@@ -3,7 +3,15 @@
 This project is a classic command-line based, client-server chat application built using Java Sockets. It features a multi-threaded server that can accept and manage connections from multiple clients simultaneously. When a client sends a message, the server broadcasts it to every other client connected to the chat room.
 
 ---
+## IntermShip Details
 
+* **Company**: CODTECH IT SOLUTIONS
+* **Name**: Sayed Zabeulla
+* **INTERN ID**: CT04DY151
+* **DOMIAN**: JAVA Programming
+* **Duration**: 4 weeks
+* **Mentor**: NEELA SANTOSH
+---
 ## ✨ Features
 
 ### Server (`ChatServer.java`)

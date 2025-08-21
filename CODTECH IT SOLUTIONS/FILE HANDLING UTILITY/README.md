@@ -6,7 +6,15 @@
 A simple yet effective command-line based file management tool built in Java. This utility provides essential file operations like creating, reading, updating (appending), and deleting text files through an interactive menu. It's an excellent project for demonstrating core Java I/O concepts.
 
 ---
+## IntermShip Details
 
+* **Company**: CODTECH IT SOLUTIONS
+* **Name**: Sayed Zabeulla
+* **INTERN ID**: CT04DY151
+* **DOMIAN**: JAVA Programming
+* **Duration**: 4 weeks
+* **Mentor**: NEELA SANTOSH
+---
 ## ✨ Features
 
 * **✍️ Write to File:** Create a new file or completely overwrite an existing one with new content.

@@ -3,7 +3,15 @@
 This is a lightweight, command-line Java application that demonstrates how to make a simple `GET` request to a public REST API. It connects to the Cat Fact Ninja API, fetches a random fact, and displays the JSON response in a readable format directly in the console.
 
 ---
+## IntermShip Details
 
+* **Company**: CODTECH IT SOLUTIONS
+* **Name**: Sayed Zabeulla
+* **INTERN ID**: CT04DY151
+* **DOMIAN**: JAVA Programming
+* **Duration**: 4 weeks
+* **Mentor**: NEELA SANTOSH
+---
 ## ✨ Features
 
 * **API Connectivity:** Makes an HTTP `GET` request to a public endpoint (`https://catfact.ninja/fact`).

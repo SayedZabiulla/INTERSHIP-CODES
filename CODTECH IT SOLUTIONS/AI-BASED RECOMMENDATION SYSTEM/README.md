@@ -3,6 +3,14 @@
 This project is a simple demonstration of an AI-powered recommendation system built in Java. It implements a **user-based collaborative filtering** algorithm to suggest items to a user. The system works by analyzing a dataset of user ratings, finding users with similar tastes, and then recommending items that similar users have liked but the target user has not yet rated.
 
 ---
+## IntermShip Details
+
+* **Company**: CODTECH IT SOLUTIONS
+* **Name**: Sayed Zabeulla
+* **INTERN ID**: CT04DY151
+* **DOMIAN**: JAVA Programming
+* **Duration**: 4 weeks
+* **Mentor**: NEELA SANTOSH
 
 ## ✨ Features
 
