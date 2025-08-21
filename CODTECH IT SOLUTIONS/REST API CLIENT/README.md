@@ -1,4 +1,4 @@
-# 🐱 Java REST API Client for Cat Facts
+# 🐱 Java REST API Client
 
 This is a lightweight, command-line Java application that demonstrates how to make a simple `GET` request to a public REST API. It connects to the Cat Fact Ninja API, fetches a random fact, and displays the JSON response in a readable format directly in the console.
 
