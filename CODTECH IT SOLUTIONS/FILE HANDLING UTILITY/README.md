@@ -17,8 +17,9 @@ A simple yet effective command-line based file management tool built in Java. Th
 
 ---
 
-## 📝 Example Usage
-
+## 📝 OUTPUTS
+# Writing a File
+    ![File Handling Utility Output]("C:\Users\Zabis\OneDrive\OUTPUTS\Screenshot 2025-08-21 142524.png")
 ---
 
 ## 📬 Contact
