@@ -61,7 +61,7 @@ Here is an example of what the session would look like with a server and two cli
 ---
 ### Client 2:
 ---
-<img width="479" height="233" alt="Image" src="https://github.com/user-attachments/assets/3078c0c2-710e-4a12-9211-af005d8612de" />
+<img width="450" height="900" alt="Image" src="https://github.com/user-attachments/assets/3078c0c2-710e-4a12-9211-af005d8612de" />
 
 ---
 
