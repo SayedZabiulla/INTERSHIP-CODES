@@ -14,7 +14,7 @@ This is a lightweight, command-line Java application that demonstrates how to ma
 ---
 ## 🖼️ Output
 ---
-<img width="519" height="177" alt="Image" src="https://github.com/user-attachments/assets/e3c8b622-18c2-4150-a408-d8f4e221ff6c" />
+<img width="450" height="900" alt="Image" src="https://github.com/user-attachments/assets/e3c8b622-18c2-4150-a408-d8f4e221ff6c" />
 
 ---
 ## 📬 Contact
