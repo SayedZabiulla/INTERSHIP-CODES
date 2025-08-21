@@ -6,15 +6,15 @@ A curated collection of the projects and code I've worked on during my professio
 
 ## 🚀 About Me
 
-Hello! I'm **Sayed Zabiulla**, a passionate and driven [Software Developer] with a keen interest in [JAVA Development, Web Develpoment and SQl and NoSql]. This portfolio is a living document of my journey through various internships, highlighting the challenges I've tackled and the solutions I've built.
-
+Hello! I'm **Sayed Zabiulla**, a passionate and driven **Software Developer** with a keen interest in JAVA Development, Web Develpoment and Sql and NoSql. This portfolio is a living document of my journey through various internships, highlighting the challenges I've tackled and the solutions I've built.
+ 
 ---
 
 ## 💼 Internship Experience
 
 | Company | Role | Duration | Projects & Technologies | Code Repository |
 | :-- | :-- | :-- | :-- | :-- |
-| **CODTECH IT SOLUTIONS** | JAVA Intern | August 2025 - September 2025 | **Java File Handling Utility 📁** <br> **[Project Title 1]** <br> **[Project Title 1]** <br> **[Project Title 1]** | [![View Code](https://img.shields.io/badge/GOTO-REPO-blue.svg)](https://github.com/SayedZabiulla/INTERSHIP-CODES/tree/main/CODTECH%20IT%20SOLUTIONS) |
+| **CODTECH IT SOLUTIONS** | JAVA Intern | August 2025 - September 2025 | **-> Java File Handling Utility 📁** <br> **[Project Title 1]** <br> **[Project Title 1]** <br> **[Project Title 1]** | [![View Code](https://img.shields.io/badge/GOTO-REPO-blue.svg)](https://github.com/SayedZabiulla/INTERSHIP-CODES/tree/main/CODTECH%20IT%20SOLUTIONS) |
 <!-- | **[Company Name 2]** | [Your Role] | [Start Date] - [End Date] | **[Project Title 2]**<br>_A brief one-line description of the project._<br>_Tech:_ `Python`, `Flask`, `PostgreSQL` | `[View Code](./path/to/project2)` | -->
 
 
