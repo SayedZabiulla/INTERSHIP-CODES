@@ -17,7 +17,7 @@ This project is a simple demonstration of an AI-powered recommendation system bu
 
 ## 🖼️ Output
 ---
-
+<img width="450" height="900" alt="Image" src="https://github.com/user-attachments/assets/a5d5cb35-2149-44ca-8984-362289379ebd" />
 
 ---
 ## 📫 Contact
