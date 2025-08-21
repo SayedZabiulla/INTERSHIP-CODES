@@ -12,9 +12,11 @@ This is a lightweight, command-line Java application that demonstrates how to ma
 * **Modern Java Practices:** Uses `java.net.URI` for robust and safe URL creation.
 * **Zero Dependencies:** Runs using only standard Java libraries, no external dependencies are required.
 ---
-
 ## 🖼️ Output
+---
+<img width="519" height="177" alt="Image" src="https://github.com/user-attachments/assets/e3c8b622-18c2-4150-a408-d8f4e221ff6c" />
 
+---
 ## 📬 Contact
 
 Created by **Sayed Zabiulla** - feel free to reach out!
