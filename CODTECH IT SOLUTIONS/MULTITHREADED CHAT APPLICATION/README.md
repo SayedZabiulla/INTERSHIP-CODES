@@ -49,6 +49,15 @@ This project is a classic command-line based, client-server chat application bui
 ## 🖼️ Output
 
 Here is an example of what the session would look like with a server and two clients running.
+### The Server:
+---
+
+### Client 1:
+---
+
+### Client 2:
+---
+
 
 ---
 
