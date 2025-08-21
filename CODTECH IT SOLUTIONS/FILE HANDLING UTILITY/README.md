@@ -19,6 +19,7 @@ A simple yet effective command-line based file management tool built in Java. Th
 
 ## 📝 OUTPUTS
 # Writing a File
+
     <img width="680" height="307" alt="Image" src="https://github.com/user-attachments/assets/6f019e95-992c-4350-a2db-7849857c9368" />
 
 # Reading File
