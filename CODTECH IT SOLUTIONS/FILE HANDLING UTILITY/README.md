@@ -21,27 +21,27 @@ A simple yet effective command-line based file management tool built in Java. Th
 ---
 ### Writing a File
 ---
-<img width="300" height="500" alt="Image" src="https://github.com/user-attachments/assets/31a28262-7f02-40f6-9abb-8b20e811ae82" />
+<img width="400" height="800" alt="Image" src="https://github.com/user-attachments/assets/31a28262-7f02-40f6-9abb-8b20e811ae82" />
 
 ---
 ### Reading File
 ---
-<img width="300" height="500" alt="Image" src="https://github.com/user-attachments/assets/7e6fd033-0fd3-4525-887a-618f782ab4bd" />
+<img width="400" height="800" alt="Image" src="https://github.com/user-attachments/assets/7e6fd033-0fd3-4525-887a-618f782ab4bd" />
 
 ---
 ### Addpend File
 ---
-<img width="300" height="500" alt="Image" src="https://github.com/user-attachments/assets/70a214b2-0cdc-46ca-a7e2-80be76cd64f8" />
+<img width="400" height="800" alt="Image" src="https://github.com/user-attachments/assets/70a214b2-0cdc-46ca-a7e2-80be76cd64f8" />
 
 ---
 ### Reading Filee After Appending
 ---
-<img width="300" height="500" alt="Image" src="https://github.com/user-attachments/assets/4acb05c4-1153-47a1-b28c-18b0f4180913" />
+<img width="400" height="800" alt="Image" src="https://github.com/user-attachments/assets/4acb05c4-1153-47a1-b28c-18b0f4180913" />
 
 ---
 ### Delete File
 ---
-<img width="300" height="500" alt="Image" src="https://github.com/user-attachments/assets/04b7888a-a84f-4b0a-9b28-d6b414e0262a" />
+<img width="400" height="800" alt="Image" src="https://github.com/user-attachments/assets/04b7888a-a84f-4b0a-9b28-d6b414e0262a" />
 
 ---
 
