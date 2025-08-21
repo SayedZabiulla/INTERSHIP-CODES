@@ -19,7 +19,7 @@ A simple yet effective command-line based file management tool built in Java. Th
 
 ## 📝 OUTPUTS
 # Writing a File
-    ![image alt]("https://github.com/SayedZabiulla/INTERSHIP-CODES/blob/a852195825fd4660afbdd452d2fcb427a09d1923/CODTECH%20IT%20SOLUTIONS/FILE%20HANDLING%20UTILITY/OUTPUTS/Screenshot%202025-08-21%20142524.png")
+    !("https://github.com/SayedZabiulla/INTERSHIP-CODES/blob/a852195825fd4660afbdd452d2fcb427a09d1923/CODTECH%20IT%20SOLUTIONS/FILE%20HANDLING%20UTILITY/OUTPUTS/Screenshot%202025-08-21%20142524.png")
 
 # Reading File
     ![image alt](https://github.com/SayedZabiulla/INTERSHIP-CODES/blob/main/CODTECH%20IT%20SOLUTIONS/FILE%20HANDLING%20UTILITY/OUTPUTS/Screenshot%202025-08-21%20142531.png?raw=true)
