@@ -43,7 +43,6 @@ A simple yet effective command-line based file management tool built in Java. Th
 ---
 <img width="400" height="800" alt="Image" src="https://github.com/user-attachments/assets/04b7888a-a84f-4b0a-9b28-d6b414e0262a" />
 
----
 
 ---
 
